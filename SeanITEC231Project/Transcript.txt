@@ -1,0 +1,48 @@
+00:00
+One of the core principles behind the design of the internet was that users from everywhere
+00:08
+should get the same experience.
+00:11
+Censored Planet is the first global internet censorship observatory that collects data
+00:18
+continuously from more than 170 countries without end user’s participation.
+00:41
+The reason why I am interested to monitor and bring transparency and accountability
+00:45
+to this phenomenon is that I strongly believe that it takes away opportunity and it degrades
+00:51
+human dignity for many who experience it.
+00:54
+The technology behind internet censorship is becoming cheaper and cheaper, so it is
+00:59
+very affordable for governments, states, you name it, to just buy this and deploy it.
+01:06
+There are 3 common ways that the governments block content:
+01:12
+One is by blocking the IP address. There is also DNS poisoning where the DNS query is going
+01:21
+to be poisoned or redirected to where the content is not there. And the third kind is
+01:26
+application layer blocking or keyword blocking where the censor monitors the traffic and
+01:32
+notices there is sensitive keyword that is being communicated. As a result of that it’s
+01:38
+blocked or actually it shows the user a block page where it says this content is not legal.
+01:44
+So Censored Planet captures all of these 3 kinds of monitoring techniques
+01:50
+[music]
+02:23
+I grew up with the internet being censored either by university, by government, or more
+02:31
+importantly by servers who provide the information. More and more I realized that internet censorship
+02:38
+should be put into global perspective. It’s not just Iran, just China. Trying to have
+02:44
+control on what people or citizens of one country can see is a mission of all the governments.
+02:50
+It’s just what they care about and what they might want to block. What I think is
+02:56
+important is having a transparency on the process. Who is deciding to block what and
+03:01
+do we have trust in those people for the decisions they’re making.
